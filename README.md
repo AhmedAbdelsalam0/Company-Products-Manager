@@ -1,6 +1,8 @@
 # This is JAVA FX Project to view , store , modify and delete products data in SQL Database .
 # With harmash website help .
 
+check pptx file to see how program looks like .
+
 To Avoid Errors :
 1. Make your own database or impoert products.sql file .
 2. Ensure to put mysql-connector-java to your project under lib folder .
